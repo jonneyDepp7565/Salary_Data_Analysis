@@ -2,7 +2,7 @@
 Salary Data Analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn. This project performs data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization to uncover salary trends based on age, gender, education level, job title, and years of experience.
 
 
-**## Overview
+## Overview
 
 This project analyzes a salary dataset to extract meaningful insights using Python data analysis and visualization libraries. The analysis focuses on understanding salary trends based on employee demographics, education level, job roles, and years of experience.
 
